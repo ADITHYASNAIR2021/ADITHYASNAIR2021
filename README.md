@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADITHYASNAIR2021 (Adithya S Nair ).
 - 👀 I’m interested in Creating a better future .
-- 🌱 I’m currently learning Artificial intelligence at Amrita inst.of engineering , Amritapuri .
+- 🌱 I’m currently learning Computer Science and Artificial intelligence at Amrita inst.of engineering , Amritapuri .
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me by mail : adithyasnair2021@gmail.com
 
