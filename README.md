@@ -1,3 +1,5 @@
+![logo](https://github.com/ADITHYASNAIR2021/ADITHYASNAIR2021/blob/main/Banner_git.png)
+
 <h1 align="center">Hi 👋, I'm Adithya S Nair</h1>
 <h3 align="center">A passionate AI Engineering Student from India</h3>
 
