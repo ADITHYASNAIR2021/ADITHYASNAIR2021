@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML and Web dev.
 - 🌱 A passionate AI Engineering Student from Kerala, India
 - 📫 reach me at adithyasnair2021@gmail.com
-<!---
+
 - 💞️ I’m looking to collaborate on various projects, interested WhatsApp me on +91 8136859455
 
 <br/>
