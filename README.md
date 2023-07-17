@@ -3,7 +3,7 @@
 - 🌱 A passionate AI Engineering Student from Kerala, India
 - 📫 reach me at adithyasnair2021@gmail.com
 
-- 💞️ I’m looking to collaborate on various projects, interested WhatsApp me on +91 8136859455
+- 💞️ I’m looking to collaborate on various projects, interested WhatsApp me at +91 8136859455
 
 <br/>
 <br/>
