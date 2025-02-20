@@ -13,8 +13,8 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adithyasnair2021&layout=compact&theme=radical"><br><br>
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITHYASNAIR2021/ADITHYASNAIR2021/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADITHYASNAIR2021/ADITHYASNAIR2021/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ADITHYASNAIR2021/ADITHYASNAIR2021/refs/heads/output/github-snake.svg" />
 </picture>
 <img align = "center" src = "https://www.holopin.io/api/user/board?user=adithyasnair2021"/>
