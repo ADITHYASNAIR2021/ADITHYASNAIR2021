@@ -9,8 +9,6 @@
 <br/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=adithyasnair2021&show_icons=true&locale=en&theme=radical" alt="adithyasnair2021" />
-    <img src="https://streak-stats.demolab.com?user=adithyasnair2021&theme=radical&date_format=j%20M%5B%20Y%5D" /><br><br>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adithyasnair2021&layout=compact&theme=radical"><br><br>
 </p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADITHYASNAIR2021/ADITHYASNAIR2021/refs/heads/output/github-snake-dark.svg" />
