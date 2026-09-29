@@ -117,5 +117,5 @@ Connects the RAD-DINO vision encoder to BioGPT through a Semantic Alignment Adap
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Nanni (thank you)" />
+  <img src="footer.svg" width="100%" alt="Nanni (thank you)" />
 </p>
